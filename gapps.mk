@@ -16,6 +16,6 @@ vendor/utak3r/prebuilt/app/GooglePartnerSetup.apk:system/app/GooglePartnerSetup.
 vendor/utak3r/prebuilt/app/GoogleServicesFramework.apk:system/app/GoogleServicesFramework.apk \
 vendor/utak3r/prebuilt/app/MediaUploader.apk:system/app/MediaUploader.apk \
 vendor/utak3r/prebuilt/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
-vendor/utak3r/prebuilt/app/GmsCore.apk:system/app/GmsCore.apk
-vendor/utak3r/prebuilt/app/Phonesky.apk:system/app/Phonesky.apk
+vendor/utak3r/prebuilt/app/GmsCore.apk:system/app/GmsCore.apk \
+vendor/utak3r/prebuilt/app/Phonesky.apk:system/app/Phonesky.apk \
 vendor/utak3r/prebuilt/app/Gmail2.apk:system/app/Gmail2.apk
